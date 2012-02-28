@@ -1,3 +1,5 @@
+[ Links collection last updated in DECEMBER 2011 ]
+
 WebComicsLinks
 =======
 
@@ -11,3 +13,10 @@ Webcomics for which links are present :-
 2. XKCD (http://www.xkcd.com)
 3. PhdComics (http://www.phdcomics.com/comics.php)
 4. SpikedMath (http://www.spikedmath.com)
+
+
+Directory Structure
+-------------------
+
+The 'Comic\_Image\_links' folder contains the collection of links to the aforementioned webcomics. 
+The 'scripts' folder contains helpful scripts to extract links. 
